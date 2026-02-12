@@ -157,6 +157,11 @@ b {
   }
 }
 
+#headline {
+  max-width: unset !important;
+}
+
+
 @media (max-width: 400px) {
 .cover-hed header {
 margin-top: 55%;
