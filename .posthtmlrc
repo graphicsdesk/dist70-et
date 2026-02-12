@@ -1,0 +1,107 @@
+{
+  "plugins": {
+    "posthtml-include": {
+      "root": "./src"
+    },
+    "posthtml-expressions": {
+      "root": "./src/partials",
+      "locals": {
+        "top": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The New York State Board of Elections campaign finance disclosures revealed a large funding gap between District 70 Assembly member Jordan Wright and challenger Conrad Blackburn ahead of statewide elections on Nov. 3."
+          },
+          {
+            "type": "text",
+            "value": "The publicly available campaign contribution data revealed that Wright’s campaign has raised $96,677 so far, while Blackburn, who is backed by the Democratic Socialists of America, has received around $41,778."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "district70circles.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Wright also had the highest campaign contributions of the four District 70 candidates who ran in the <a href=\"https://www.columbiaspectator.com/city-news/2024/04/05/march-campaign-disclosure-reports-show-wright-leading-district-70-race-in-fundraising/\">2024 race</a>"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "district70bars.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Although Wright has received a larger total contribution, his campaign has fewer individual contributions than Blackburn, who received 256 more contributions of less than $100. In contrast, Wright received 14 contributions of over $1,000, while Blackburn received only one."
+          },
+          {
+            "type": "text",
+            "value": "Blackburn, a democratic socialist, is focusing his campaign on affordable housing, taxing the rich, and community preservation. According to his social media accounts, Blackburn aims to combat corporations and real estate developers to make Harlem more affordable for residents."
+          },
+          {
+            "type": "text",
+            "value": "“Political elites and corporate interests have purposely stifled that progress and drained Harlem of its resources,” Blackburn’s campaign website <a href=\"https://conradforharlem.com/\">reads</a>. “I’m running to put Harlem back in the hands of the people.”"
+          },
+          {
+            "type": "text",
+            "value": "A Bronx public defender and union organizer, Blackburn announced his campaign in November 2025 and was endorsed by region 9A of the United Auto Workers union, along with current City Council and assembly members."
+          },
+          {
+            "type": "text",
+            "value": "“I am proud we have endorsed Conrad for Assembly,” UAW 9A Director Brandon Mancilla wrote in a social media post. “From organizing his coworkers to found the Bronx Defenders Union in Local 2325, to serving on his shop’s executive board, to now running for State Assembly, Conrad embodies UAW values.”"
+          },
+          {
+            "type": "text",
+            "value": "Blackburn has also received an endorsement from the New York City chapter of the DSA, which led a widely praised on-the-ground mobilization of voters for Mayor Zohran Mamdani’s campaign. The chapter has also endorsed congressional contender Darializa Avila Chevalier, a candidate running against Rep. Adriano Espaillat for District 70, which includes portions of West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "Wright’s campaign focuses on affordable housing, bolstering Harlem’s workforce, and improving its educational infrastructure. During his tenure as District 70 Assembly member, Wright focused his efforts toward incarceration reform, education, and healthcare."
+          },
+          {
+            "type": "text",
+            "value": "“As a son of Harlem, I am ready and committed to doing the work of uniting our great community. It is time to pull our folding chairs up to the table in order to create the future that Harlem deserves,” Wright’s campaign website reads."
+          },
+          {
+            "type": "text",
+            "value": "His reelection campaign has received endorsements from a number of New York City and State officials, including State Sen. Cordell Cleare, City Council member Yusef Salaam, Assembly member Al Taylor, and Wright’s father, Keith L.T. Wright, who was the District 70 Assembly member from 1992 through 2016."
+          },
+          {
+            "type": "text",
+            "value": "Neither Blackburn nor Wright responded to requests for comment regarding their campaign donations."
+          },
+          {
+            "type": "text",
+            "value": "Wright won the <a href=\"https://www.columbiaspectator.com/city-news/2024/06/26/jordan-wright-wins-primary-election-set-to-become-district-70-assembly-member/\">2024 Democratic primary</a> in a crowded race with 47 percent of the vote. This year’s primaries will be held on June 23, while the general elections are on Nov. 3."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Danielis Morales Villegas can be contacted at </i><a href=\"mailto:danielis.morales@columbiaspectator.com\"><i>danielis.morales@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://x.com/danielis_isa21?s=21&t=xXFYVq0I0Ry2hPUq4c3pHw\"><i>@danielis_isa21</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Data Visualization Editor Emily Ta can be contacted at </i><a href=\"mailto:emily.ta@columbiaspectator.com\"><i>emily.ta@columbiaspectator.com</i></a><i>. </i><i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Funding for District 70 Assembly member Jordan Wright’s campaign dwarfs challenger Conrad Blackburn",
+        "dek": "Wright’s reelection campaign has attracted larger donations, while democratic socialist Blackburn’s campaign has received smaller individual donors.",
+        "date": "February 11, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/danielis-morales-villegas/\">Danielis Morales Villegas</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/emily-ta/\">Emily Ta</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DEE4PT24Z5BYPDSJWBUIWMFVRY.jpg",
+        "cover_caption": "Tianqi Wang / Photo Deputy",
+        "USE_NEWS_NAV": true,
+        "USE_EYE_NAV": false,
+        "USE_COVER_HED": true,
+        "IS_EMBED": false,
+        "DOC_URL": "https://docs.google.com/document/d/1QsFXpDXWETARMMc7burzddb8ZUfF6WY-18LZ0PeWBFQ/edit?tab=t.0"
+      }
+    }
+  }
+}

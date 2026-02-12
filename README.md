@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # dist70-et
+=======
+For cloning and development instructions, see the [Spectate documentation](https://github.com/graphicsdesk/spectate/#cloning-a-spectate-project). This story was created with [Spectate](https://github.com/graphicsdesk/spectate) v1.4.0.
+>>>>>>> f334a1a (Initial commit)
