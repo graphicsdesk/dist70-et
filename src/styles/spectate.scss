@@ -120,7 +120,7 @@ b {
     background-color: rgba(0, 0, 0, 0.6);
     max-width: 700px;
     color: #fff;
-    transform: translateY(-150%); // TODO: do better;
+    transform: translateY(-120%); // TODO: do better;
     align-items: center;
 
     p,
@@ -161,6 +161,7 @@ b {
 .cover-hed header {
 margin-top: 55%;
 transform: translateY(-120%);
+
 }
 }
 
@@ -221,6 +222,20 @@ header {
     a {
       color: #121212;
     }
+
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transform: translateY(-50%);
+
+    background-color: rgba(0, 0, 0, 0.6);
+    max-width: 700px;
+    color: #fff;
+    align-items: center;
+
+
   }
 
   .pub-date {
